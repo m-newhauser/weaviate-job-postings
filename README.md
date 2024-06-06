@@ -20,11 +20,8 @@ This Jupyter Notebook provides a comprehensive approach to analyzing LinkedIn jo
 ```
 weaviate-job-postings/
 ├── README.md
-├── notebooks/
-│   ├── weaviate_job_postings.ipynb
-├── output/
-│   ├── output.zip
-└── README.md
+├── weaviate_job_postings.ipynb
+└── output.zip
 ```
 
 - weaviate_job_postings.ipynb: Entire workflow with documentation.
