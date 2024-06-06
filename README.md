@@ -1,0 +1,1 @@
+# weaviate-job-postings
